@@ -1,0 +1,10 @@
+{
+  "name": "artomb-branding",
+  "description": "Applies ARTOMB Recruitment's official colors, fonts, logo, and layout style to any deck, document, PDF, form, or spreadsheet.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ARTOMB Recruitment"
+  },
+  "keywords": ["branding", "artomb", "template", "design", "recruitment"]
+}
+
