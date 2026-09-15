@@ -1,0 +1,20 @@
+{
+  "name": "artomb-marketplace",
+  "owner": {
+    "name": "ARTOMB Recruitment",
+    "email": "hello@artombrecruitment.com",
+    "url": "https://www.artombrecruitment.com"
+  },
+  "plugins": [
+    {
+      "name": "artomb-branding",
+      "source": "./plugins/artomb-branding",
+      "description": "Applies ARTOMB Recruitment's official colors, fonts, logo, and layout style to any deck, document, PDF, form, or spreadsheet.",
+      "version": "1.0.0",
+      "author": {
+        "name": "ARTOMB Recruitment"
+      }
+    }
+  ]
+}
+
